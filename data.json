@@ -1,0 +1,22 @@
+[
+  {
+    "Name": "Jane Doe",
+    "Title": "Director, Partner Operations",
+    "Company": "Snowflake",
+    "Affinity Group": "Partner Ops Leads – SaaS",
+    "Motivation Summary": "Focuses on scalable partner onboarding, tool stack consolidation, and ROI visibility.",
+    "Top Themes": ["Onboarding Friction", "Tool Bloat", "GTM Alignment"],
+    "Receptiveness Score": 84,
+    "Suggested Message": "Hi Jane — I work with partner ops teams focused on validating onboarding readiness. Some teams are piloting BongoLearn to use AI and video to verify partner skills before rollout. Happy to share more if helpful."
+  },
+  {
+    "Name": "John Smith",
+    "Title": "Partner Enablement Manager",
+    "Company": "Atlassian",
+    "Affinity Group": "Partner Enablement Innovators",
+    "Motivation Summary": "Driven to improve content personalization, reduce manual onboarding effort, and show training ROI.",
+    "Top Themes": ["AI Personalization", "Partner Playbooks", "Enablement ROI"],
+    "Receptiveness Score": 79,
+    "Suggested Message": "Hey John — saw you’re focused on enablement scale and content impact. BongoLearn helps leaders verify partner skills through async video and AI scoring. Let me know if you’d like to see how it fits."
+  }
+]
